@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
-- 📝 I regularly write **technical articles on Linkedin**, [here](https://www.linkedin.com/in/ruth-cohen77/recent-activity/all/)
+- 📝 I regularly write **technical articles on [Linkedin](https://www.linkedin.com/in/ruth-cohen77/recent-activity/all/)**
 
 - 💬 Ask me about **NodeJS, Python, AWS**
 
