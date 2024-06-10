@@ -1,25 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ruth Cohen</h1>
+<h1 align="center">Hi 👋, I'm Ruth</h1>
 <h3 align="center">A passionate backend developer from Israel</h3>
 
-- Hi, I'm working as a tech development mantor **in Ti-Space Startat**
+- Hi, I'm working as a tech development mentor **at Ti-Space start-up company**
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ruth-cohen89](https://github.com/ruth-cohen89)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ruth-cohen77/recent-activity/all/](https://www.linkedin.com/in/ruth-cohen77/recent-activity/all/)
 
 - 💬 Ask me about **NodeJS, Python, AWS**
 
-- 📫 How to reach me **ruthcohen67@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ruth-cohen77/](https://www.linkedin.com/in/ruth-cohen77/)
-
 - ⚡ Fun fact **I'm a gym addict**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ruth-cohen77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruth-cohen77/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
