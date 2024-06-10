@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 My name is Ruth Cohen and I'm a backend developer, from Israel.</h2>
+[<h2 align="left">Hi 👋 My name is Ruth Cohen and I'm a backend developer, from Israel.</h2>
 
 ###
 
@@ -58,3 +58,4 @@
 <img src="https://raw.githubusercontent.com/ruth-cohen89/ruth-cohen89/output/snake.svg" alt="Snake animation" />
 
 ###
+](https://profile-readme-generator.com/)
