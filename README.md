@@ -3,7 +3,7 @@
 
 - 📊 Hi, I work at Ti-Space start-up as a **tech development mentor**
 
-- I worked in Brio animation and Fit-You as a **backend developer**
+- 👩🏼‍💻 I worked in Brio animation and Fit-You as a **backend developer**
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
