@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ruth</h1>
 <h3 align="center">A passionate backend developer from Israel</h3>
 
-- Hi, I'm working as a tech development mentor **at Ti-Space start-up company**
+- 📊 Hi, I work as a tech development mentor **in Ti-Space start-up**
+
+- I worked as a backend developer in **Brio animation and Fit-You**
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
