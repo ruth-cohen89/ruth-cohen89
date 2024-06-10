@@ -9,7 +9,7 @@
 
 - 📝 I regularly write **technical articles on [Linkedin](https://www.linkedin.com/in/ruth-cohen77/recent-activity/all/)**
 
-- 💬 Ask me about **NodeJS, Python, AWS**
+- 💬 Ask me about **NodeJS, MongoDB, AWS**
 
 - ⚡ Fun fact **I'm a gym addict**
 
