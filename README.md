@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ruth</h1>
 <h3 align="center">A passionate backend developer from Israel</h3>
 
-- 📊 Hi, I work at Ti-Space start-up as a **tech development mentor**
+- 📊 Hi, I work at Ti-Space start-up as a **Tech development mentor**
 
-- 👩🏼‍💻 I worked in Brio animation and Fit-You as a **backend developer**
+- 👩🏼‍💻 I worked in Brio animation and Fit-You as a **Backend developer**
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
-- 📝 I regularly write **technical articles on linkedin**,[here](https://www.linkedin.com/in/ruth-cohen77/recent-activity/all/)
+- 📝 I regularly write **technical articles on Linkedin**, [here](https://www.linkedin.com/in/ruth-cohen77/recent-activity/all/)
 
 - 💬 Ask me about **NodeJS, Python, AWS**
 
