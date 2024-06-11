@@ -5,11 +5,11 @@
 
 - 👩🏼‍💻 I worked in Brio animation and Fit-You as a **Backend developer**
 
+- 💬 Ask me about **NodeJS, Python, MongoDB, MySQL, AWS**
+
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
 - 📝 I regularly write **technical articles on [Linkedin](https://www.linkedin.com/in/ruth-cohen77/recent-activity/all/)**
-
-- 💬 Ask me about **NodeJS, Python, MongoDB, MySQL, AWS**
 
 - ⚡ Fun fact **I'm a gym addict**
 
