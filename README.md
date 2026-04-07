@@ -5,9 +5,7 @@
 
 - 📊 Hi, I worked at Ti-Space start-up as a **Tech development mentor**
 
-- 💬 Ask me about **NodeJS, Python, MongoDB, MySQL, AWS**
-
-- 🌱 I’m currently learning **Docker and Kubernetes**
+- 💬 Ask me about **NodeJS, MongoDB, Kubernetes, AWS**
 
 - 📝 I regularly write **technical articles on [Linkedin](https://www.linkedin.com/in/ruth-cohen77/recent-activity/all/)**
 
