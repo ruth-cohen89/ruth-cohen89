@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ruth</h1>
-<h3 align="center">A passionate backend developer from Israel</h3>
+<h3 align="center">A passionate Backend developer from Israel</h3>
 
-- 📊 Hi, I work at Ti-Space start-up as a **Tech development mentor**
+- 👩🏼‍💻 Currently, I'm building an application that beats the cost of living by **finding the cheapest grocery basket** automatically -
 
-- 👩🏼‍💻 I worked in Brio animation and Fit-You as a **Backend developer**
+- 📊 Hi, I worked at Ti-Space start-up as a **Tech development mentor**
 
 - 💬 Ask me about **NodeJS, Python, MongoDB, MySQL, AWS**
 
