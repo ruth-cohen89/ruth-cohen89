@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Ruth 👋</h1>
+<h1 align="center">Hi, I'm Ruth</h1>
 <h3 align="center">A passionate Backend developer from Israel</h3>
 
-- 👩🏼‍💻 Currently, I'm building an application that helps beat the cost of living by **finding the cheapest grocery basket automatically**.
+- 👩🏼‍💻 Currently, I'm building an application that helps reduce the cost of living by **finding the cheapest grocery basket**.
 
 - 💻 Backend engineer with production experience **building scalable systems**
 
